@@ -34,9 +34,10 @@
 
 Route::get('/', function()
 {
-	echo 'hello world';
+	return View::make('home.index');
 });
 
+Route::controller('home');
 Route::controller('users');
 
 /*
