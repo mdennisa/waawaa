@@ -1,0 +1,1 @@
+This is the /Applications/XAMPP/xamppfiles/htdocs/waawaa/application/views/user/index.blade.php view

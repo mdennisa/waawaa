@@ -37,6 +37,8 @@ Route::get('/', function()
 	echo 'hello world';
 });
 
+Route::controller('users');
+
 /*
 |--------------------------------------------------------------------------
 | Application 404 & 500 Error Handlers
