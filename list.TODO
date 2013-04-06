@@ -1,0 +1,14 @@
+Waawaa task management
+Auth :
+ ☐ normal auth
+ ☐ facebook auth
+
+DB :
+ ☐ create table user
+ ☐ create table post
+
+--- ✄ -----------------------
+
+Pools :
+ ✔ set up laravel 3 @done (13-04-06 17:47)
+ ☐ set up git
